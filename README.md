@@ -1,2 +1,2 @@
 # Automated-Teller-Machine-
-This program that stimu;ates an ATM machine.
+This program that stimulates an ATM machine.
